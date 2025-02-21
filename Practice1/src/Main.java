@@ -1,3 +1,5 @@
+/*Написать программу которая считывает 5-и значное число с
+        клавиатуры и выводит цифры из которого оно состоит.*/
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {

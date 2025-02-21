@@ -1,3 +1,5 @@
+/*Написать программу которая вычислит и выведет на экран
+площадь треугольника если известны его стороны.*/
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
