@@ -1,0 +1,7 @@
+# Игнорируем всё
+*
+
+# Разрешаем только Practice1 и Practice2
+!Practice1/
+!Practice2/
+!/.gitignore
